@@ -14,8 +14,6 @@ A simple program that prints a message to the console
 
 - [Usage](#usage)
 - [Installation](#installation)
-- [Notes](#notes)
-- [Testing](#testing)
 - [License](#license)
 - [Version History](#version)
 - [Contributing](#contributing)
@@ -36,15 +34,6 @@ To install:
 - run `go run main.go`
 
 * `Hello World` statement is printed to console *
-
-## Testing
-
-To run tests:
-
-- after installation, open terminal in application root directory
-- enter, `go test`
-
-* a pass or fail message will be printed to terminal console*
 
 ## License
 
